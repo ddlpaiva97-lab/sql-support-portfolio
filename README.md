@@ -13,6 +13,7 @@ El análisis se enfoca en diagnosticar el rendimiento de los agentes, medir el c
   * `DATEDIFF` (Cálculo de tiempos de resolución en días).
   * **Subconsultas** (Para clasificar el desempeño de los agentes).
   * Funciones de agregación (`COUNT`, `SUM`, `AVG`, `ROUND`).
+  * CREATE, INSERT, UPDATE y DELETE (Manipulación de datos y estructura).
 
 ## 📂 Estructura del Repositorio
 * `schema.sql`: Contiene la creación de las 4 tablas relacionales (tickets, usuarios, agentes, categorias) y la inserción de 50 tickets de prueba con datos realistas.
